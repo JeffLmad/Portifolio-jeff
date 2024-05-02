@@ -3,5 +3,18 @@ header{
 }
 a {
     color: white;
+    font-family: "Fira Code";
     font-size: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+#button{
+    display: inline-block;
+    background-color: #F25A70;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 0 black;
 }
