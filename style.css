@@ -34,4 +34,9 @@ a::before{
     padding: 18px 20px;
     box-shadow: 5px 5px 0 black;
     margin-right: 0;
+    transition: 0.2s ease-in-out;
+}
+#button:hover{
+    border-radius: 20px;
+    background-color: #f25a71c4;
 }
