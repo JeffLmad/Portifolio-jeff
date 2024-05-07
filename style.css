@@ -7,7 +7,7 @@ header{
     padding: 10px 20px;
 }
 
-h1{
+#logo{
     font-size: 30px;
     font-family: 'Press Start 2P';
     color: #FFF;
@@ -48,4 +48,11 @@ a::before{
     border-radius: 20px;
     background-color: #f25a71c4;
     cursor: pointer;
+}
+
+h1{
+    font-family: 'Press Start 2P', sans-serif ;
+    font-size: 40px;
+    color: #F25A70;
+    text-shadow: 5px 5px 0px black;
 }
