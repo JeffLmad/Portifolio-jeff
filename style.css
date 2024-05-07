@@ -1,9 +1,17 @@
 header{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #7c5e99;
     border-bottom: 10px solid #000;
     padding: 10px 20px;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Press Start 2P';
+    color: #FFF;
+    text-shadow: 5px 5px 0px black;
 }
 
 nav{
@@ -39,4 +47,5 @@ a::before{
 #button:hover{
     border-radius: 20px;
     background-color: #f25a71c4;
+    cursor: pointer;
 }
